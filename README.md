@@ -1,5 +1,6 @@
 # PG_LK_MH 
-## A Python script that generates strong and secure passwords based on user preferences. The script will allow users to specify the length of the password, as well as whether to include uppercase letters, lowercase letters, numbers, and special characters.
+
+
 
 import random
 import string
